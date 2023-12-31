@@ -1,0 +1,3 @@
+[submodule "io_scene_psdl/common"]
+	path = io_scene_psdl/common
+	url = https://github.com/wilkovatch/psdl-exporter-common
