@@ -4,9 +4,11 @@ Requirements:
   This add-on has been tested with Blender 2.91 and Blender 3.1, it may not work with older versions
 
 Installation:
-  - Open the Blender preferences menu (Edit->Preferences) and go to the "Add-ons" tab
+  - Clone this repository (including the submodules) with: git clone https://github.com/wilkovatch/mm2-blender-psdl-plugin.git --recurse-submodules
+  - zip the "io_scene_psdl" directory in a file named "io_scene_psdl.zip"
+  - Open Blender, go to the preferences menu (Edit->Preferences) and go to the "Add-ons" tab
   - Click the "Install..." button (in the top right corner, to left of the "Refresh" button)
-  - Select the addon .zip file (io_scene_psdl.zip)
+  - Select the addon .zip file you created earlier (io_scene_psdl.zip)
   - Enable it
 
 Usage:
