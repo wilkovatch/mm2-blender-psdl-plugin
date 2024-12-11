@@ -1,5 +1,7 @@
 Blender add-on for exporting PSDL files for Midtown Madness 2
 
+This plugin uses code from this repository: https://github.com/wilkovatch/psdl-exporter-common
+
 Requirements:
   This add-on has been tested with Blender 2.91 and Blender 3.1, it may not work with older versions
 
